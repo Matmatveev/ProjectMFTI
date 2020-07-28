@@ -1,0 +1,23 @@
+span{font-family:Arial}
+a.rose {
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: white;
+  padding: 20px 40px;
+  margin: 5px 10px;
+  border-radius: 160px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, #FF0000 5%, #FFCFF0 50%, #FF0777 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  transition: .5s;
+}
+a:hover {background-position: right center;}
+a.non{
+ margin: 0px 20px;
+}
