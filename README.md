@@ -1,2 +1,2 @@
 # ProjectMFTI
-http://beautymarina.h1n.ru/
+Old ver:http://beautymarina.h1n.ru/
