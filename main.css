@@ -21,13 +21,13 @@ body{
   width: 100%;
   margin: 0 auto;
 }
-a.rose {
+.rose {
   text-decoration: none;
   outline: none;
   display: inline-block;
   color: white;
   padding: 20px 40px;
-  margin: 5px 10px;
+  margin: 0px 140px 0px 0px;
   border-radius: 160px;
   font-family: 'Montserrat', sans-serif;
   font-size: 30px;
@@ -38,6 +38,7 @@ a.rose {
   background-size: 200% auto;
   box-shadow: 0 0 20px rgba(0,0,0,.1);
   transition: .5s;
+  float: right;
 }
 a:hover {
   background-position: right center;
@@ -67,3 +68,11 @@ a:hover {
   width: 100%;
 
 }
+/*.xoch{
+  display: inherit;
+  border: 2px solid red;
+  width: 210px;
+  height: 100px;
+  margin: 0 40px;
+  float: right;
+}*/
