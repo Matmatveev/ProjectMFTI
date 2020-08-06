@@ -1,4 +1,26 @@
-span{font-family:Arial;}
+body{
+  margin: 0;
+  font-family:Arial
+
+}
+.fir{
+  display: block;
+  width: 100%;
+  margin: 0;
+  text-align: center;
+}
+.img1{
+  display: block;
+  margin: 30px auto;
+  width:28%;
+  height:28%;
+  box-shadow: 0 5px 20px #A3A3A3;
+}
+.imgg{
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+}
 a.rose {
   text-decoration: none;
   outline: none;
@@ -17,7 +39,31 @@ a.rose {
   box-shadow: 0 0 20px rgba(0,0,0,.1);
   transition: .5s;
 }
-a:hover {background-position: right center;}
-a.non{
- margin: 0px 20px;
+a:hover {
+  background-position: right center;
+}
+
+.but{
+  width:65px;
+  height:65px;
+  margin: 0 10px 0px 10px
+}
+.d1{
+  line-height: 1.7;
+  margin: 0 auto;
+  font-size: 50px;
+  font-weight: bolder;
+  margin-left: 30px;
+}
+.butt{
+  margin-left: 20px;
+}
+.text{
+  font-size: 30px; font-style: oblique; margin-left: 54px;
+}
+.img2{
+  display: block;
+  margin: 10px auto;
+  width: 100%;
+
 }
